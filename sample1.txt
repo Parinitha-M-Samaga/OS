@@ -1,0 +1,14 @@
+Hello world. This is a sample text file. I hope this executes correctly.
+Watashi no namae wa Parinitha desu.
+Omae wa mou shindeiru.
+Omae wa baka desu ne.
+Omar Varela.
+omae omae.
+Omae wa hanaseru you ni natta ne.
+Kyou wa chotto samui desu. Seki wo shiteimasu.
+Miles Morales is the GOAT.
+Gwen Stacy is the GOAT.
+Pavitr Prabhakar is the GOAT.
+
+systemctl restart cups-browsed
+
